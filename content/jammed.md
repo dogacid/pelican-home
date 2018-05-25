@@ -1,0 +1,8 @@
+Title: Jammed
+Date: 2015-01-13 12:00:00
+Category: Reflect
+
+Now that I am practicing to write, exercising deliberate practice, I am having a terrible week and it’s only Tuesday. I have set the alarm at 5:30am yesterday, and today, and felt like a constipated  zombie with a hang over. The problem isn’t that I haven’t nothing to say, ask any of my friends and family, I can have a problem of shutting up. But I have so much going on in my mind it’s all jammed up at the door of explainability. I was reflecting while driving back on Sunday from Healesville, what perspective should you be writing from, should it be stories of things you encounter and the ideas that come from them? I’m thinking what have I forgotten already? When I got home I jump at my Kindle and flicked through Anne Lamont’s Bird by Bird again, get some sanity on the 3rd page:
+“Good writing is about telling the truth. We are a species that needs to understand who we are.”
+ I felt more relaxed, but then I couldn’t stop thinking about how did this happen that I got into this jam in my head? Last week the thoughts came more sequentially and graceful manner. Well I have a theory, I’m back at work in the thick of other problems, the mind has become a soup of gotta do this and plan for that, such and such wants to talk about X, a fight for my attention!
+But over the Christmas period I had 10 days off, I actually, to my surprise, was entering some nice deep thought periods, quiet time to reflect and make sense of matters. Sitting out in the waters of Bondi Beach waiting for a wave, I thought, it is probably highly likely it helps me to think and therefore be able to write
