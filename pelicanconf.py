@@ -2,15 +2,26 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Marc'
-SITENAME = 'Pelican Test'
+AUTHOR = 'Marc Galbraith'
+SITENAME = 'Marc Galbraith'
 SITEURL = ''
 
 PATH = 'content'
 
+STATIC_PATHS = ['pdfs','images']
+
 TIMEZONE = 'Australia/Melbourne'
 
 DEFAULT_LANG = 'en'
+
+#THEME = 'themes/pelican-alchemy/alchemy'
+THEME = 'themes/getpelican/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'journal'
+
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
+PLUGIN_PATHS = ['plugins/getpelican']
+PLUGINS = ['i18n_subsites']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
